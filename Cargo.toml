@@ -1,0 +1,12 @@
+[package]
+name = "bin"
+version = "0.1.0"
+edition = "2021"
+description = "Simple command line application to give permission and copy executable binaries to a specific folder."
+license = "MIT"
+authors = ["Ruan G. Molinari <ruan.molinari@proton.me>"]
+categories = ["command-line-utilities"]
+keywords = ["cli"]
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
