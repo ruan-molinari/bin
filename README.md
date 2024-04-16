@@ -1,5 +1,5 @@
 # Bin
-A siple command line utility to easily install executable binaries into unix systems.
+A simple command line utility to easily install executable binaries into unix systems.
 
 # Usage
 To install a binary run the following command:
